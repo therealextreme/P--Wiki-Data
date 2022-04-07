@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+defaults:
+ -
+    scope:
+      path: ""
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"
